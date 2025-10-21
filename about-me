@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link href="bootstrap.min.css" rel="stylesheet">
+  <script src="bootstrap.bundle.min.js"></script>
+  
+  <title>about emi - emi's place uwu</title>
+
+  <style>
+
+    body
+    {
+        background-color: #ff69b4;
+        color: white;
+        margin-bottom: 50px;
+    }
+
+    .home_text
+    {padding-left: 20px;}
+
+    .home_pic
+    {text-align: center;}
+  
+  </style>
+
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg" style="background-color: #ff1493;">
+    
+    <div class="container-fluid">
+        
+        <a class="navbar-brand text-light" href="#">emi's place</a>
+        
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        
+    <div class="collapse navbar-collapse" id="navbarText">
+      
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        
+        <li class="nav-item">
+        <a class="nav-link active text-light" aria-current="page" href="emi_project_home.html">home</a>
+        </li>
+        
+        <li class="nav-item">
+        <a class="nav-link text-light" href="emi_project_emis-stuff.html">emi's stuff</a>
+        </li>
+        
+        <li class="nav-item">
+        <a class="nav-link text-light" href="emi_project_about-emi.html">about emi</a>
+        </li>
+    
+        </ul>
+        <span class="navbar-text text-light">
+        welcome to emi's place! enjoy ur stay :3
+        </span>
+    
+    </div>
+    </div>
+
+</nav>
+
+<br><br>
+
+<p class="fs-1 text-center" style="padding-left: 20px;">i wanna git gud and have an gud time :)</p>
+
+<p class="home_text fs-3 text-center">
+
+    my links~
+</p>
+
+<div class="text-center">
+  <a href="https://www.tiktok.com/@emiru" style="background-color: #2c2a2b; color: white; width: 200px; height: 50px;" class="btn btn-lg">🖤 TikTok</a>
+</div>
+
+<br>
+
+<div class="text-center">
+  <a href="https://www.instagram.com/emiru.jpg/" style="background-color: #9707e5; color: white; width: 200px; height: 50px;" class="btn btn-lg">💜 Instagram</a>
+</div>
+
+<br>
+
+<div class="text-center">
+  <a href="https://twitter.com/emiru" style="background-color: #0751e5; color: white; width: 200px; height: 50px;" class="btn btn-lg">💙 Twitter</a>
+</div>
+
+<br>
+
+<div class="text-center">
+  <a href="https://www.youtube.com/channel/UCZprw7Bxzfh2IysXNnl1S3g" style="background-color: #e50707; color: white; width: 200px; height: 50px;" class="btn btn-lg">❤️ YouTube</a>
+</div>
+
+<br>
+
+<div class="text-center">
+  <a href="https://www.reddit.com/r/emiru" style="background-color: #e56407; color: white; width: 200px; height: 50px;" class="btn btn-lg">🧡 Reddit</a>
+</div>
+
+</body>
